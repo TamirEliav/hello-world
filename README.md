@@ -11,3 +11,5 @@ I managed to commit and push my previous comment to GitHub repo!!
 Let's find out if commit was to the LOCAL repo (Git) and the push did the update in GitHub!
 
 How can I avoid re-entering my usenamr/password each push!?!?!
+
+adding dummy text
