@@ -19,4 +19,11 @@ Let's see if  I can get a diff of the entire project at once!!
 I found this link: https://www.scootersoftware.com/vbulletin/showthread.php?7578-git-difftool-load-all-files-into-a-folder-compare-view
 It tells how to run full folder comparison (didn't tried yet!)
 
-dummy line
+I now able to run diff on the entire project directory (using dir-diff), this is in my .gitconfig file
+[diff]
+	tool = bc3
+[difftool "bc3"]
+	cmd = \"c:/program files (x86)/beyond compare 3/bcompare.exe\" -rro "$REMOTE" "$LOCAL"
+	trustExitCode = true
+[alias]
+	dif= difftool --dir-diff
