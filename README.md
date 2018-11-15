@@ -18,3 +18,5 @@ I managed to configure the external diff tool bc3 (see here: https://stackoverfl
 Let's see if  I can get a diff of the entire project at once!!
 I found this link: https://www.scootersoftware.com/vbulletin/showthread.php?7578-git-difftool-load-all-files-into-a-folder-compare-view
 It tells how to run full folder comparison (didn't tried yet!)
+
+dummy line
