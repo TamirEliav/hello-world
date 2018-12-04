@@ -14,6 +14,10 @@ To avoid re entering the username / password each time, I'm using the git wrappe
 https://www.mathworks.com/matlabcentral/fileexchange/29154-a-thin-matlab-wrapper-for-the-git-source-control-system
 The git wrapper is using the git installed in my PC to communicate with GitHub, and it has my credinals....
 There is another option to solve this (and use the build-in MATLAB interface), which is to use SSH, but that seems to much effort...
+Note: you should first enter the username/password to the git config in the local system, from the command line:
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+Then, the first time you try to use the push command, a window will popup and you should enter your username/password (which will be saved for later use).
 
 I managed to configure the external diff tool bc3 (see here: https://stackoverflow.com/questions/2069490/git-diff-with-beyond-compare)
 Let's see if  I can get a diff of the entire project at once!!
