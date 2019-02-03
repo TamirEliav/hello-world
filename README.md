@@ -36,4 +36,5 @@ I now able to run diff on the entire project directory (using dir-diff), this is
 I changed the files from GitHub interface and will commit the changes. Then I'll try to pull the changes from MATLAB.
 
 nice workflow visualization: https://blog.osteele.com/2008/05/my-git-workflow/
+
 Interactive workflow visualization: http://ndpsoftware.com/git-cheatsheet.html#loc=workspace
