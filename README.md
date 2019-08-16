@@ -38,3 +38,5 @@ I changed the files from GitHub interface and will commit the changes. Then I'll
 nice workflow visualization: https://blog.osteele.com/2008/05/my-git-workflow/
 
 Interactive workflow visualization: http://ndpsoftware.com/git-cheatsheet.html#loc=workspace
+
+test
