@@ -40,3 +40,5 @@ nice workflow visualization: https://blog.osteele.com/2008/05/my-git-workflow/
 Interactive workflow visualization: http://ndpsoftware.com/git-cheatsheet.html#loc=workspace
 
 test
+
+Today is a wonderful day
