@@ -42,3 +42,5 @@ Interactive workflow visualization: http://ndpsoftware.com/git-cheatsheet.html#l
 test
 
 Today is a wonderful day
+
+26/10/2020 smartgit test
