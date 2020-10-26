@@ -43,4 +43,4 @@ test
 
 Today is a wonderful day
 
-26/10/2020 smartgit test
+26/10/2020 smartgit test!
